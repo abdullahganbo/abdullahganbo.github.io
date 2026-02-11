@@ -99,10 +99,8 @@ NRST is conditioned with:
 Both signals are routed deliberately and kept away from noisy regions to avoid
 unintentional mode changes or spurious resets.
 
-<div style="display: flex; gap: 16px; align-items: flex-start;">
-  <img src="../assets/stm32-mcu-board/BOOT_layout.png" width="48%" alt="BOOT layout">
-  <img src="../assets/stm32-mcu-board/NRST_layout.png" width="48%" alt="NRST layout">
-</div>
+![BOOT and NRST](../assets/stm32-mcu-board/BOOT_and_NRST_schematic.png)
+
 
 ---
 
