@@ -116,7 +116,10 @@ signals are routed with a solid ground reference beneath them.
 
 This allows stable debugging without relying on flying wires or adapters.
 
-![SWD layout](../assets/stm32-mcu-board/swd.png)
+<div style="display: flex; gap: 16px; align-items: flex-start;">
+  <img src="../assets/stm32-mcu-board/SWD_schematic.png" width="48%" alt="SWD schematic">
+  <img src="../assets/stm32-mcu-board/SWD_layout.png" width="48%" alt="SWD layout">
+</div>
 
 ---
 
