@@ -111,8 +111,7 @@ A standard 10-pin SWD header is implemented with:
 - NRST connected for reliable attach and reset control
 - Multiple ground pins stitched directly into the ground plane
 
-The header is placed close to the MCU to minimize trace length, and all SWD
-signals are routed with a solid ground reference beneath them.
+The SWD header is routed with a continuous ground reference and stitched ground pins into the plane. Due to placement constraints, the SWD signals use vias to reach the MCU while maintaining short, direct routing and avoiding noisy power paths.
 
 This allows stable debugging without relying on flying wires or adapters.
 
