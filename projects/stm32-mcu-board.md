@@ -63,7 +63,7 @@ both Port A and Port B without forcing early pin-function decisions.
 This configuration keeps the MCU electrically quiet and mechanically accessible
 during early firmware experiments.
 
-![MCU core schematic](../assets/stm32-mcu-board/mcu-core.png)
+![MCU core schematic](../assets/stm32-mcu-board/MCU_schematic.png)
 
 ---
 
