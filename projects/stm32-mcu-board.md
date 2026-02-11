@@ -14,7 +14,10 @@ The goal was clarity, controllability, and debuggability rather than feature den
 - Programming & Debug: SWD
 - PCB: 2-layer, ground-referenced layout
 
-![System overview / top layer](../assets/stm32-mcu-board/top-layer.png)
+<div style="display: flex; gap: 16px; align-items: flex-start;">
+  <img src="../assets/stm32-mcu-board/schematic.pdf" width="48%" alt="System Schematic">
+  <img src="../assets/stm32-mcu-board/All_layers.png" width="48%" alt="System Layout">
+</div>
 
 ---
 
@@ -31,7 +34,10 @@ Key decisions:
 The layout prioritizes short, wide copper for power paths and a clear return
 path into the ground plane.
 
-![Power regulation schematic / layout](../assets/stm32-mcu-board/power.png)
+<div style="display: flex; gap: 16px; align-items: flex-start;">
+  <img src="../assets/stm32-mcu-board/power_regulation_schematic.png" width="48%" alt="Power regulation schematic">
+  <img src="../assets/stm32-mcu-board/power_regulation_layout.png" width="48%" alt="Power regulation layout">
+</div>
 
 ---
 
