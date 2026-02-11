@@ -14,9 +14,10 @@ The goal was clarity, controllability, and debuggability rather than feature den
 - Programming & Debug: SWD
 - PCB: 2-layer, ground-referenced layout
 
-![System Schematic](../assets/stm32-mcu-board/schematic.pdf);
-![System Layout](../assets/stm32-mcu-board/All_layers.png)
-
+<div style="display: flex; gap: 16px; align-items: flex-start;">
+  <img src="../assets/stm32-mcu-board/top_layer.png" width="48%" alt="Top Layer">
+  <img src="../assets/stm32-mcu-board/bottom_layer.png" width="48%" alt="Bottom Layer">
+</div>
 
 ---
 
