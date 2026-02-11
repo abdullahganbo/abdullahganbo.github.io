@@ -24,4 +24,4 @@ decisions, and real hardware validation.
 ---
 
 Contact: a.ganbihey@gmail.com  
-LinkedIn: add-your-link-here
+LinkedIn: (https://www.linkedin.com/in/abdalla-elganbihy/)
