@@ -81,10 +81,8 @@ Design and layout considerations:
 This avoids reliance on the internal oscillator and ensures predictable timing
 behavior from the first power-up.
 
-<div style="display: flex; gap: 16px; align-items: flex-start;">
-  <img src="../assets/stm32-mcu-board/osc_schematic.png" width="48%" alt="External Clock Schematic">
-  <img src="../assets/stm32-mcu-board/osc_layout.png" width="48%" alt="External Clock layout">
-</div>
+![External Clock Layout](../assets/stm32-mcu-board/osc_layout.png)
+
 
 ---
 
