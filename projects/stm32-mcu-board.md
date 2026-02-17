@@ -136,7 +136,7 @@ This was done intentionally to:
 The ring acts as a routing constraint as much as a power feature, trading routing
 flexibility for predictability and safety.
 
-![3V3 ring](../assets/stm32-mcu-board/3v3-ring.png)
+![3V3 ring](../assets/stm32-mcu-board/+3V3_NET.png)
 
 ---
 
@@ -154,7 +154,7 @@ Benefits:
 
 This choice prioritizes electrical behavior over visual neatness.
 
-![Bottom layer GND plane](../assets/stm32-mcu-board/bottom-layer.png)
+![Bottom layer GND plane](../assets/stm32-mcu-board/bottom_layer.png)
 
 ---
 
