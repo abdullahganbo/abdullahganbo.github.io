@@ -63,7 +63,7 @@ The feedback divider is placed close to the IC and routed away from the PH regio
 Layer 2 is used as a **continuous ground plane** to provide a low-impedance return path and reduce loop area for power switching currents. Ground stitching and direct returns are used to keep the power stage stable and predictable on a 2-layer stack-up.
 
 <div style="display: flex; gap: 16px; align-items: flex-start; margin-top: 10px;">
-  <img src="../assets/tps5430-buck/all_layers.png" width="70%" alt="All layers view with GND plane">
+  <img src="../assets/tps5430-buck/all layers.png" width="70%" alt="All layers view with GND plane">
 </div>
 
 ---
