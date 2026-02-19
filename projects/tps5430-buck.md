@@ -28,12 +28,11 @@ Design a reference-grade, non-isolated DC-DC buck converter based on **TPS5430**
 ## Schematic and Layout Reference
 
 <div style="display: flex; gap: 16px; align-items: flex-start;">
-  <img src="../assets/tps5430-buck/schematic.png" width="48%" alt="TPS5430 schematic">
-  <img src="../assets/tps5430-buck/top_layer.png" width="48%" alt="Top layer layout">
+  <img src="../assets/TPS5430DDAR/top layer.png" width="48%" alt="Top layer layout">
 </div>
 
 <div style="text-align:center; font-size: 0.95em; margin-top: 6px;">
-  <a href="../assets/tps5430-buck/schematic.pdf" target="_blank">View full schematic (PDF)</a>
+  <a href="../assets/TPS5430DDAR/schematic.PDF" target="_blank">View full schematic (PDF)</a>
 </div>
 
 ---
